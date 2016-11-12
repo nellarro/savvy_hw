@@ -1,0 +1,7 @@
+{
+  "name": "savvy_hw",
+  "short_name": "savvy_hw",
+  "description": "Savvy Suit Polymer Interview",
+  "start_url": "/",
+  "display": "standalone"
+}

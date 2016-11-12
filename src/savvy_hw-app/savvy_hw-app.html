@@ -1,0 +1,32 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<dom-module id="savvy_hw-app">
+  <template>
+    <style>
+      :host {
+        display: flex;
+      }
+    </style>
+    <h2>Polymer Homework</h2>
+    <div>
+      <paper-input-decorator label="Name">
+        <input is="core-input">
+      </paper-input-decorator>
+    </div>
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'savvy_hw-app',
+
+      properties: {
+        prop1: {
+          type: String,
+          value: 'savvy_hw-app',
+        },
+      },
+
+    });
+  </script>
+</dom-module>
