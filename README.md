@@ -50,6 +50,7 @@ Here are some more resources:
 - [Node Site](https://nodejs.org/)
 - [Beginner's Guide to Node](http://blog.modulus.io/absolute-beginners-guide-to-nodejs/)
 - [Socket.io Docs](http://socket.io/docs/)
+
 **Conclusion ..**
 
 While we do expect you to know a little bit about web development, we also expect there to be a learning curve - and that’s okay! This assignment was intended for you to go out, research, and learn how to work with the three main technologies we use. In addition to this, we would love to see you go the extra mile! If you have an interesting idea that you would like to add on to this assignment, it will definitely be taken into consideration. ;) As a startup, innovation and creative thinking is a must, so these are qualities we are also looking for during this process.
