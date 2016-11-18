@@ -55,3 +55,6 @@ Here are some more resources:
 
 While we do expect you to know a little bit about web development, we also expect there to be a learning curve - and that’s okay! This assignment was intended for you to go out, research, and learn how to work with the three main technologies we use. In addition to this, we would love to see you go the extra mile! If you have an interesting idea that you would like to add on to this assignment, it will definitely be taken into consideration. ;) As a startup, innovation and creative thinking is a must, so these are qualities we are also looking for during this process.
 If you have any questions, feel free to ask! We can't wait to see what you create! Good luck and happy coding!
+
+
+not really enjoying this
